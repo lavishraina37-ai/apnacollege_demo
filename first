@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device initial-scale=1.0">
+    <title>New Website</title>
+  </head>
+  <body>
+    <h1> BOOKMARK </h1>
+    <h2>Primary Bookmark</h2>
+    <p><a target="_blank" href="https://www.google.com">Open google</a></p>
+    <p><a target="_blank" href="https://www.instagram.com">Open instagram</a></p>
+    <p><a target="_blank" href="https://www.flipkart.com">open flipkart</a></p>
+    <h2>Secondary Bookmark</h2>
+    <p><a target="_blank" href="https://www.quora.com">open quora</a></p>
+    <p><a target="_blank" href="https://www.amazon.com">open amazon</a></p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Roll</th>
+        <th>Address</th>
+      </tr>
+      <tr>
+        <td>Lavish</td>
+        <td>29</td>
+        <td rowspan="2">Sujana</td>
+      </tr>
+      <tr>
+        <td>Mohita</td>
+        <td>29</td>
+      </tr>
+    </table>
+    <ul>
+      <li>Rohit</li>
+      <li>Vikas</li>
+      <li>Ranbir</li>
+    </ul>
+    <ol>
+      <li>Sahil</li>
+      <li>Vanu</li>
+      <li>Tamana</li>
+    </ol>
+    <dl>
+      <dt>HTML</dt>
+      <dd>Hyper Text Markup Language</dd>
+      <dt>CSS</dt>
+      <dd>Cascading style sheets</dd>
+      <dt>JS</dt>
+      <dd>Java Script</dd>
+    </dl>
+  </body>
+</html>
